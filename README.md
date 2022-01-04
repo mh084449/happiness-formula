@@ -1,4 +1,4 @@
-This was created as a part of the DBMS course.
+This was created as a part of the Statistical Analysis course.
 
 
 ## Team Members
